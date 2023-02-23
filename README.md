@@ -24,4 +24,6 @@ Player -> Contains the show player button.<br />
 Playlist -> Contains all created playlists.<br />
 Songs -> Contains all songs added to the playlist<br />
 <br />
+
+# Warning
 You can modify the data in either sheet but don't remove the filters in the Songs sheet.
