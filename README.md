@@ -2,7 +2,7 @@
 A scheduled music player made in Microsoft Excel. The player is programmed to play songs assigned to the playlist but only during specific time slots designated in the playlist configuration.
 
 ## Explanation
-Why? you may ask, well the short answer is because you can, the long answer there was a need to play specific gender of music throught the day, and since tehre was no access to visual studio I improvise something in Excel and this was the result.
+Why? you may ask, well the short answer is because you can, the long answer is there was a need to play specific gender of music throughout the day, and since there was no access to the visual studio I improvise something in Excel and this was the result.
 
 # Use
 
