@@ -14,7 +14,7 @@ Click the [Open Player] button to show the main dialog along with the other acti
 click [Create Playlist] -> insert the playlist name along with it's starting and ending time -> click [Save] button
 
 ## Add songs
-It's required to create a plyalist before adding the songs.<br />
+It's required to create a playlist before adding the songs.<br />
 click [Add Songs] -> select a playlist from the combobox -> click [Browse Files] button -> select all the audio files that you want to add to the playlist -> click [OK button] -> close the add songs dialog.
 
 ## Remove playlist
