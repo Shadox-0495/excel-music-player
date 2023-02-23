@@ -5,8 +5,7 @@ A scheduled music player made in Microsoft Excel. The player is programmed to pl
 Why? you may ask, well the short answer is because you can, the long answer is there was a need to play specific gender of music throughout the day, and since there was no access to the visual studio I improvise something in Excel and this was the result.
 
 # Use
-
-Click the [Open Player] button
+Click the [Open Player] button to show the main dialog along with the other actions.
 
 ## Create playlist
 click [Create Playlist] -> insert the playlist name along with it's starting and ending time -> click [Save] button
