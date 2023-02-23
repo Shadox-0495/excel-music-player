@@ -10,4 +10,15 @@ click [Create Playlist] -> insert the playlist name along with it's starting and
 
 ## Add songs
 It's required to create a plyalist before adding the songs.<br />
-click [Add Songs] -> select a playlist from the combobox -> click [Browse Files] button -> select all the audio files that you want to add to the playlist -> click [OK button]
+click [Add Songs] -> select a playlist from the combobox -> click [Browse Files] button -> select all the audio files that you want to add to the playlist -> click [OK button] -> close the add songs dialog.
+
+## Remove plylist
+Note: This will remove the playlist an all it's songs.<br />
+click [Remove playlist] -> select a playlist from the combobox -> click [Remove playlist] button -> confirm removal ->  close the remove playlist dialog.
+
+## Sheets
+Player -> Contains the show player button.<br />
+Playlist -> Contains all created playlists.<br />
+Songs -> Contains all songs added to the playlist<br />
+<br />
+You can modify the data in either sheet but don't remove the filters in the Songs sheet.
