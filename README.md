@@ -1,6 +1,6 @@
-![alt text](https://github.com/Shadox-0495/excel-music-player/blob/master/cover.png?raw=true)
-
 # Excel-music-player
+
+![alt text](https://github.com/Shadox-0495/excel-music-player/blob/master/cover.png?raw=true)
 A scheduled music player made in Microsoft Excel. The player is programmed to play songs assigned to the playlist but only during specific time slots designated in the playlist configuration.
 
 ## Explanation
