@@ -26,4 +26,4 @@ Songs -> Contains all songs added to the playlist<br />
 <br />
 
 # Warning
-You can modify the data in either sheet but don't remove the filters in the Songs sheet.
+You can modify the data in either sheet but don't remove the filters in the Songs sheet, it can cause issue with the code.
