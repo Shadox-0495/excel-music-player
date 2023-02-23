@@ -17,7 +17,7 @@ click [Create Playlist] -> insert the playlist name along with it's starting and
 It's required to create a plyalist before adding the songs.<br />
 click [Add Songs] -> select a playlist from the combobox -> click [Browse Files] button -> select all the audio files that you want to add to the playlist -> click [OK button] -> close the add songs dialog.
 
-## Remove plylist
+## Remove playlist
 Note: This will remove the playlist an all it's songs.<br />
 click [Remove playlist] -> select a playlist from the combobox -> click [Remove playlist] button -> confirm removal ->  close the remove playlist dialog.
 
